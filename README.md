@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am Christian Lee Pfumbi, and this is my story 👋💻🖱️
 
 
 # 💻 Tech Stack:
