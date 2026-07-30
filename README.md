@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Christianlee23">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=65a30d&fontSize=54&height=90&width=1200&text=Hi%20there%2C%20I'm%20Christian%20Lee%20Pfumbi%20%F0%9F%91%8B" alt="Hi there, I&#39;m Christian Lee Pfumbi 👋" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=65a30d&fontSize=54&height=90&width=1200&text=Hi%20there%2C%20I'm%20Christian%20Lee%20Pfumbi%20%F0%9F%91%8B" alt="Hi, I'm Christian Lee Pfumbi 👋" />
   </a>
 </p>
 
