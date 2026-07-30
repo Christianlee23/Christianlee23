@@ -5,10 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=A%20results%20driven%20Software%20Developer%20with%20extensive%20experience%20across%20the%20full%20software%20development%20lifecycle.;I%20specialize%20in%20building%20modern%2C%20performant%20web%20applications%20and%20fintech%20solutions%20using%20React%2C%20Next.js%2C%20and%20robust%20backend%20integrations." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=655&height=44&lines=It's%20invented.triggy%2C%20your%20favourite%20dev.;What's%20good%3F%3F%3F" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
+
+A results driven Software Developer with extensive experience across the full software development lifecycle. I specialize in building modern, performant web applications and fintech solutions using React, Next.js, and robust backend integrations.
 
 😄 &nbsp;Pronouns: **He/him**
 
